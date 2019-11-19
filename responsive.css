@@ -1,0 +1,171 @@
+@media screen and (max-width: 1200px) {
+	/* Welkom pagina */
+	button{
+		font-size: 2vh;
+		font-weight: plain;
+	}
+	
+	.content1{
+		width: 100%;
+	}
+	
+	#wp{
+		font-size: 2vh;
+	}
+	
+	#om{
+		width: 40%;
+	}
+	
+	/* Opleiding pagina */
+	
+	/* Over mij pagina */
+	
+	/* Contact pagina */
+}
+
+
+@media screen and (max-width: 1000px) {
+	/* Welkom pagina */
+	body{
+		background-image: none;
+		background-color: #8ca9d8;
+	}
+	
+	button{
+		background-color: green;
+	}
+	
+	.content1{
+		height: 25%;
+	}
+	img{
+		height: 70%;
+	}
+
+	#om{
+		height: 50%;
+		width: 50%;
+	}
+	
+	#foot{
+		font-size: 2vh;
+	}
+	
+	/* Opleiding pagina */
+	
+	/* Over mij pagina */
+	
+	/* Contact pagina */
+}
+
+
+@media screen and (max-width: 800px) {
+	/* Welkom pagina */
+	button{
+		background-color: yellow;
+	}
+	
+	.content1{
+		font-size: 1vh;
+		height: 22%;
+	}
+	
+	img{
+		width: 70%;
+		height: 70%;
+	}
+	.lc{
+		width: 20%;
+	}
+	
+	.cc{
+		width: 60%;
+	}
+	
+	.rc{
+		width: 20%;
+	}
+	
+	p{
+		font-size: 2vh;
+	}
+	
+	#om{
+		width: 40%;
+		height: 40%;
+	}
+	/* Opleiding pagina */
+	
+	/* Over mij pagina */
+	
+	/* Contact pagina */
+}
+
+
+@media screen and (max-width: 600px) {
+	/* Welkom pagina */
+	button{
+		background-color: red;
+	}
+	
+	ul{
+		margin-top: 20px;
+	}
+	li{
+		font-size: 2vh;
+	}
+	/* Opleiding pagina */
+	
+	/* Over mij pagina */
+	
+	/* Contact pagina */
+}
+
+@media screen and (max-width: 450px) {
+	/* Welkom pagina */
+	button{
+		background-color: orange;
+	}
+	
+	.content1{
+		height: 30%;
+	}
+	
+	.lc{
+		width: 100%;
+		float: left;
+	}
+
+	.cc{
+		margin-top: 2%;
+		padding-top: 3%;
+		width: 100%;
+		float: left;
+		padding-bottom: 3%; 
+		background-color: white;
+		padding-bottom: 5%;
+		margin-bottom: 0;
+	}
+
+	.rc{
+		margin-top: 0;
+		padding-top: 2%;
+		width: 100%;
+		float: left;
+		background-color: pink;
+		padding-bottom: 2%;
+		margin-bottom: 60%;
+	}
+	
+	.content2{
+		background-color: pink;
+		opacity: 1;
+	}
+}
+	/* Opleiding pagina */
+	
+	/* Over mij pagina */
+	
+	/* Contact pagina */
+}
