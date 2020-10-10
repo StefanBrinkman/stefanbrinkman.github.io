@@ -9,7 +9,7 @@
 	
 	<body>
 		<header>
-			<a href="welkom.html"><button>Home</button></a>
+			<a href="index.html"><button>Home</button></a>
 			<a href="opleiding.html"><button>Opleiding</button></a>
 			<a href="overmij.html"><button>Over mij</button></a>
 			<a href="contact.html"><button><strong>Contact</strong></button></a>
@@ -44,7 +44,7 @@
 		</div>
 			
 		<footer>
-			<p id="foot">Gemaakt door Stefan Brinkman. 2018 &copy; Alle rechten voorbehouden</p>
+			<p id="foot">Gemaakt door Stefan Brinkman. 2020 &copy; Alle rechten voorbehouden</p>
 		</footer>
 	</body>
 </html>
